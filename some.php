@@ -2,4 +2,7 @@
 
 echo "roar";
 
-function abadfucntion(){echo"gregg";}
+function abadfucntion()
+{
+    echo"gregg";
+}
